@@ -9,6 +9,6 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-        System.out.println( "Testing the Travis CI build with another new push" );
+        System.out.println( "Testing the Travis CI build with yet another new push" );
     }
 }
