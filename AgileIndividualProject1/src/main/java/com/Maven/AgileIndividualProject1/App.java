@@ -9,5 +9,6 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
+        System.out.println( "Testing the Travis CI build with a new push" );
     }
 }
